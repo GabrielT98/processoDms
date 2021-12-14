@@ -12,7 +12,6 @@ class Visitante():
 
     def setSenha(self,senha:str):
         self.__senha = senha
-
     def getNome(self):
         return self.__nome
     def getEmail(self):
